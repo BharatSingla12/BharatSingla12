@@ -1,6 +1,7 @@
-### Hi there 👋
+
 
 <!--
+### Hi there 👋
 **BharatSingla12/BharatSingla12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -15,7 +16,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Hi, I am Bharat Singla! Great to see you here!
+## 👋 Hi there, its great to see you here! 🙂
 
 I am Bharat Singla. I have curious mind. I'd like to learn something new every day. I have strong mathematical background and currently I am looking for an opportunity in **Data Science**. I am a tech enthusiast. I am always open to collaborating on projects and innovative/disruptive ideas. 
 
