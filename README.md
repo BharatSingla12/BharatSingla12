@@ -1,47 +1,24 @@
+# 👋 Hi there, it's great to see you here!
 
+I'm **Bharat Singla** — a curious mind with a strong **mathematical background**, currently exploring opportunities in **Data Science**. I love learning something new every day and I'm always open to collaborating on innovative and disruptive ideas.
 
-<!--
-### Hi there 👋
-**BharatSingla12/BharatSingla12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-## 👋 Hi there, it's great to see you here! 🙂
-
-I am Bharat Singla. I have a curious mind. I'd like to learn something new every day. I have strong mathematical background and currently I am looking for an opportunity in **Data Science**. I am a tech enthusiast. I am always open to collaborating on projects and innovative/disruptive ideas. 
-
-<!-- Find out more about me & feel free to connect with me here: -->
-
-
-
+- 🎓 Strong mathematical foundation
+- 📊 Data Science & Machine Learning enthusiast
+- 🧠 Learning something new every day
+- 🤝 Open to collaborations & innovative ideas
 
 ## 📫 Reach out to me on
 
-
-[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin)](https://www.linkedin.com/in/bharat-singla-337328126/)
+[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/bharat-singla-337328126/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:bharatsingla12@gmail.com)
 
-<!--
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bharat-singla-337328126/)](https://www.linkedin.com/in/bharat-singla-337328126/)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:bharatsingla12@gmail.com)](mailto:bharatsingla12@gmail.com)
-[![Website Badge](https://img.shields.io/badge/-Portfolio-black?style=flat-square&logo=Wordpress&logoColor=white&link=https://BharatSingla12.github.io/portfolio/#/)](https://BharatSingla12.github.io/portfolio/#/) 
+<!-- 🔗 Add your portfolio badge here once your site is live:
+[![Website Badge](https://img.shields.io/badge/-Portfolio-black?style=flat-square&logo=Wordpress&logoColor=white)](https://BharatSingla12.github.io/portfolio/)
 -->
 
+## 🛠️ Technologies
 
-## 🛠 Technologies
-
-#### Languages and Frameworks:
-
+**Languages & Frameworks:**
 
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![Pandas](https://img.shields.io/badge/-Pandas-black?style=flat-square&logo=Pandas)
@@ -55,34 +32,28 @@ I am Bharat Singla. I have a curious mind. I'd like to learn something new every
 ![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=HTML5)
 ![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=CSS3)
 
+**Tools:**
 
-#### Tools:
-![GitHub Pages](https://img.shields.io/badge/-GitHubPage-black?style=flat-square&logo=github)
+![GitHub Pages](https://img.shields.io/badge/-GitHubPages-black?style=flat-square&logo=github)
 ![Heroku](https://img.shields.io/badge/-Heroku-black?style=flat-square&logo=Heroku)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![Linux](https://img.shields.io/badge/-Linux-black?style=flat-square&logo=Linux)
 
-<!-- ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-black?style=flat-square&logo=google-cloud) -->
+## 📊 GitHub Stats
 
-<!--  <a href="#"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white"></a> -->
-
-## 📈 Stats
-
-[![Bharat's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=BharatSingla12&theme=react-dark&bg_color=000000&hide_border=true&area=true)](https://github.com/BharatSingla12)
+[![Bharat's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=BharatSingla12&theme=tokyo-night&bg_color=1a1b27&hide_border=true&area=true&radius=8)](https://github.com/BharatSingla12)
 
 <p align="center">
-	
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=BharatSingla12&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://streak-stats.demolab.com/?user=BharatSingla12&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=BharatSingla12&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&rank_icon=github" />
+  <img width="48%" src="https://streak-stats.demolab.com/?user=BharatSingla12&theme=tokyonight&hide_border=true&bg_color=1a1b27" />
 </p>
-<br>
-<!-- <div align="center">
-    <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
-      <img src="https://github-profile-trophy.vercel.app/?username=Khushi0321&theme=nord&column=7" alt="Trophies" />
-    </a>
-  </div>
-</div> -->
 
-## 👁‍🗨 Profile Views 
-![VisitorCount](https://komarev.com/ghpvc/?username=BharatSingla12)
+<p align="center">
+  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BharatSingla12&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27" />
+</p>
 
+## 🌱 Currently
+
+- 🔭 Looking for opportunities in **Data Science**
+- 🌱 Deepening my skills in Machine Learning & data visualization
+- ⚡ Building data-driven projects with Python, Streamlit & Flask
