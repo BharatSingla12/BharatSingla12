@@ -84,5 +84,5 @@ I am Bharat Singla. I have a curious mind. I'd like to learn something new every
 </div> -->
 
 ## 👁‍🗨 Profile Views 
-![VisitorCount](https://profile-counter.glitch.me/BharatSingla12/count.svg)
+![VisitorCount](https://komarev.com/ghpvc/?username=BharatSingla12)
 
