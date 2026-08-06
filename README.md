@@ -32,6 +32,18 @@ I'm an **AI Engineer & Solution Architect** with **7+ years of experience** buil
   <img width="100%" src="https://streak-stats.demolab.com/?user=BharatSingla12&theme=tokyonight&hide_border=true&bg_color=1a1b27" alt="GitHub streak"/>
 </p>
 
+### 📈 Stats & Languages
+
+<p align="center">
+  <img width="100%" src="https://raw.githubusercontent.com/BharatSingla12/BharatSingla12/main/github-metrics.svg" alt="GitHub stats"/>
+</p>
+
+### 🛠️ Development Activity
+
+<p align="center">
+  <img width="100%" src="https://raw.githubusercontent.com/BharatSingla12/BharatSingla12/main/github-metrics-development.svg" alt="Development activity"/>
+</p>
+
 ## 🛠️ Tech Stack
 
 **Languages**
