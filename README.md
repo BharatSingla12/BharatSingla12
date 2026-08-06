@@ -20,18 +20,22 @@ I'm an **AI Engineer & Solution Architect** with **7+ years of experience** buil
 
 ## 📊 GitHub Analytics
 
+### 📈 GitHub Stats
+
 <p align="center">
-  <img src="https://metrics.lecoq.io/BharatSingla12?base=header,activity,community,repositories,metadata&config_timezone=Asia/Kolkata&plugin_isocalendar=yes&plugin_isocalendar_duration=full-year&plugin_languages=yes&plugin_languages_details=percentage&plugin_languages_limit=8&plugin_achievements=yes&plugin_achievements_threshold=C" alt="GitHub stats"/>
+  <img width="100%" src="https://metrics.lecoq.io/BharatSingla12?base=header,activity,community,repositories,metadata&config_timezone=Asia/Kolkata&plugin_isocalendar=yes&plugin_isocalendar_duration=full-year&plugin_languages=yes&plugin_languages_details=percentage&plugin_languages_limit=8&plugin_achievements=yes&plugin_achievements_threshold=C" alt="GitHub stats"/>
 </p>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=BharatSingla12&theme=tokyo-night&bg_color=1a1b27&hide_border=true&area=true&radius=8" alt="GitHub activity graph"/>
+### 🗓️ Contribution Activity
 
 <p align="center">
-  <img width="48%" src="https://streak-stats.demolab.com/?user=BharatSingla12&theme=tokyonight&hide_border=true&bg_color=1a1b27" alt="GitHub streak"/>
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=BharatSingla12&theme=tokyo-night&bg_color=1a1b27&hide_border=true&area=true&radius=8" alt="GitHub activity graph"/>
 </p>
 
+### 🔥 Contribution Streak
+
 <p align="center">
-  <img src="https://github-stats-alpha.vercel.app/api?username=BharatSingla12" alt="GitHub development activity"/>
+  <img width="100%" src="https://streak-stats.demolab.com/?user=BharatSingla12&theme=tokyonight&hide_border=true&bg_color=1a1b27" alt="GitHub streak"/>
 </p>
 
 ## 🛠️ Tech Stack
