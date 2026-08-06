@@ -29,6 +29,11 @@ jobs:
           plugin_languages_limit: 8
           plugin_achievements: yes
           plugin_achievements_threshold: C
+          # Retry resilience (output commits can fail under API rate limits)
+          retries: 3
+          retries_delay: 300
+          retries_output_action: 5
+          retries_delay_output_action: 120
 
       # Development activity card: commit habits, PR/issue status, lines of code
       - uses: lowlighter/metrics@latest
@@ -45,3 +50,7 @@ jobs:
           plugin_followup_sections: repositories, user
           plugin_lines: yes
           plugin_lines_history_limit: 3
+          retries: 3
+          retries_delay: 300
+          retries_output_action: 5
+          retries_delay_output_action: 120

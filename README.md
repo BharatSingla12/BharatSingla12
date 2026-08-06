@@ -21,7 +21,7 @@ I'm an **AI Engineer & Solution Architect** with **7+ years of experience** buil
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="github-metrics.svg" alt="GitHub stats"/>
+  <img src="https://metrics.lecoq.io/BharatSingla12?base=header,activity,community,repositories,metadata&config_timezone=Asia/Kolkata&plugin_isocalendar=yes&plugin_isocalendar_duration=full-year&plugin_languages=yes&plugin_languages_details=percentage&plugin_languages_limit=8&plugin_achievements=yes&plugin_achievements_threshold=C" alt="GitHub stats"/>
 </p>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=BharatSingla12&theme=tokyo-night&bg_color=1a1b27&hide_border=true&area=true&radius=8" alt="GitHub activity graph"/>
@@ -31,7 +31,7 @@ I'm an **AI Engineer & Solution Architect** with **7+ years of experience** buil
 </p>
 
 <p align="center">
-  <img src="github-metrics-development.svg" alt="GitHub development activity"/>
+  <img src="https://github-stats-alpha.vercel.app/api?username=BharatSingla12" alt="GitHub development activity"/>
 </p>
 
 ## 🛠️ Tech Stack
