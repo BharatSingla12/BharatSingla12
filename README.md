@@ -25,10 +25,6 @@ I'm an **AI Engineer & Solution Architect** with **7+ years of experience** buil
 
 ## 📊 GitHub Analytics
 
-<p align="center">
-  <img src="github-metrics.svg" alt="GitHub stats"/>
-</p>
-
 [![Bharat's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=BharatSingla12&theme=tokyo-night&bg_color=1a1b27&hide_border=true&area=true&radius=8)](https://github.com/BharatSingla12)
 
 <p align="center">
@@ -104,15 +100,6 @@ I'm an **AI Engineer & Solution Architect** with **7+ years of experience** buil
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=black)
-
-## 📌 Projects
-
-- 🖥️ **[SampleStreamlitUI](https://github.com/BharatSingla12/SampleStreamlitUI)** — Streamlit UI sample
-- 🚗 **[Car_Price_Prediction](https://github.com/BharatSingla12/Car_Price_Prediction)** — used car price prediction with machine learning
-- 🏦 **[Company_Bankruptcy_Prediction](https://github.com/BharatSingla12/Company_Bankruptcy_Prediction)** — bankruptcy risk prediction with machine learning
-- 🛒 **[Retail_Customer_Segmentation](https://github.com/BharatSingla12/Retail_Customer_Segmentation)** — customer segmentation analysis
-- 📱 **[Play_Store_App_Review_Analysis_EDA](https://github.com/BharatSingla12/Play_Store_App_Review_Analysis_EDA)** — exploratory data analysis of Play Store app reviews
-- 🚲 **[Bike_Sharing_Demand_Prediction_ML_Project](https://github.com/BharatSingla12/Bike_Sharing_Demand_Prediction_ML_Project)** — bike sharing demand prediction
 
 ## 📫 Get in touch
 
