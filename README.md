@@ -16,9 +16,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## 👋 Hi there, its great to see you here! 🙂
+## 👋 Hi there, it's great to see you here! 🙂
 
-I am Bharat Singla. I have curious mind. I'd like to learn something new every day. I have strong mathematical background and currently I am looking for an opportunity in **Data Science**. I am a tech enthusiast. I am always open to collaborating on projects and innovative/disruptive ideas. 
+I am Bharat Singla. I have a curious mind. I'd like to learn something new every day. I have strong mathematical background and currently I am looking for an opportunity in **Data Science**. I am a tech enthusiast. I am always open to collaborating on projects and innovative/disruptive ideas. 
 
 <!-- Find out more about me & feel free to connect with me here: -->
 
@@ -34,7 +34,6 @@ I am Bharat Singla. I have curious mind. I'd like to learn something new every d
 <!--
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bharat-singla-337328126/)](https://www.linkedin.com/in/bharat-singla-337328126/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:bharatsingla12@gmail.com)](mailto:bharatsingla12@gmail.com)
-[![Medium Badge](https://img.shields.io/badge/Medium-12100E?style=flat-square&logo=medium&logoColor=white&link=https://salonix.medium.com/)](https://khushi321.medium.com/)
 [![Website Badge](https://img.shields.io/badge/-Portfolio-black?style=flat-square&logo=Wordpress&logoColor=white&link=https://BharatSingla12.github.io/portfolio/#/)](https://BharatSingla12.github.io/portfolio/#/) 
 -->
 
@@ -47,8 +46,8 @@ I am Bharat Singla. I have curious mind. I'd like to learn something new every d
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![Pandas](https://img.shields.io/badge/-Pandas-black?style=flat-square&logo=Pandas)
 ![Numpy](https://img.shields.io/badge/-Numpy-black?style=flat-square&logo=Numpy)
-![Seaborn](https://img.shields.io/badge/-Seaborn-black?style=flat-square&logo=Seaborn)
-![Mathplotlib](https://img.shields.io/badge/-Mathplotlib-black?style=flat-square&logo=Mathplotlib)
+![Seaborn](https://img.shields.io/badge/-Seaborn-black?style=flat-square)
+![Matplotlib](https://img.shields.io/badge/-Matplotlib-black?style=flat-square)
 ![Scikit-Learn](https://img.shields.io/badge/-ScikitLearn-black?style=flat-square&logo=Scikit-Learn)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=PostgreSQL)
 ![Streamlit](https://img.shields.io/badge/-Streamlit-black?style=flat-square&logo=Streamlit)
@@ -69,17 +68,14 @@ I am Bharat Singla. I have curious mind. I'd like to learn something new every d
 
 ## 📈 Stats
 
-[![Bharat's github activity graph](https://activity-graph.herokuapp.com/graph?username=BharatSingla12&theme=react-dark&bg_color=000000&hide_border=true&area=true)](https://git.io/BharatSingla12)
+[![Bharat's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=BharatSingla12&theme=react-dark&bg_color=000000&hide_border=true&area=true)](https://github.com/BharatSingla12)
 
-<!--
 <p align="center">
 	
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=BharatSingla12&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=BharatSingla12&theme=tokyonight" />
+  <img width="48%" src="https://streak-stats.demolab.com/?user=BharatSingla12&theme=tokyonight" />
 </p>
 <br>
-
--->
 <!-- <div align="center">
     <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
       <img src="https://github-profile-trophy.vercel.app/?username=Khushi0321&theme=nord&column=7" alt="Trophies" />
