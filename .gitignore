@@ -1,0 +1,5 @@
+# Only the README is tracked in this profile repo.
+# Everything else (generated SVGs, workflows, etc.) stays local/ignored.
+*
+!.gitignore
+!README.md
